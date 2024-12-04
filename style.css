@@ -1,0 +1,40 @@
+
+input{
+    width: 32%;
+    height: 30px;
+    margin-left: 40%;
+    font-size: 1.3rem;
+}
+.col{
+    float: left;
+    padding: 1px;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+.clearfix{
+    clear: both;
+}
+
+#btn, #addBtn{
+    width: 250px;
+    height: 40px;
+    font-size: 1.5rem;
+    background-color: rgb(80, 203, 24);
+    color: white;
+    border: none;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+table{
+    width: 30%;
+    margin-left: 33%;                
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+tr{
+    height: 40px;
+}
